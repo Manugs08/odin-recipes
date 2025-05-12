@@ -1,0 +1,34 @@
+
+body{
+    background-color:#f6953f ;
+}
+h1{
+    text-align: center;
+    font-family:  sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    color: #fadd0e;
+    text-decoration: underline;
+}
+.foto{
+    width:300px;
+    height: 200px;
+    margin-left: 525px;
+    border-radius: 10px ;
+}
+.desarollo{
+    background-color:#fadd0e ;
+    padding:10px;
+    border:10px solid;
+    border-radius: 10px;
+    border-color:#f45703;
+    text-align: justify;
+    font-weight: 600;
+    font-family: sans-serif ;
+    color: #a54
+}
+.texto{
+    border-top:3px solid #f45703;
+    border-left:3px solid #f45703;
+    padding:5px;
+}
