@@ -1,6 +1,6 @@
 
 body{
-    background-color:#f6953f ;
+    background-color:#e7c8c8cb ;
 }
 h1{
     text-align: center;
@@ -25,7 +25,8 @@ h1{
     text-align: justify;
     font-weight: 600;
     font-family: sans-serif ;
-    color: #a54
+    color: #a54;
+    font-style: italic;
 }
 .texto{
     border-top:3px solid #f45703;
